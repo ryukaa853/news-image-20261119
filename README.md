@@ -1,8 +1,14 @@
-# The World in One Day — 19 November 2026
+# news-image-20261119
+
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/ryukaa853/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/ryukaa853/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
 A one-image summary of Thursday 19 November 2026's world news, drawn as a
-newspaper front page (1024x1024 PNG), for the make.fun bounty
-`news-image-20261119`.
+newspaper front page (1024x1024 PNG): Trump, Xi and Putin's first trilateral
+talks in Shenzhen, the ICJ's genocide ruling against Myanmar, GTA VI's
+record launch, Anthropic's $81bn IPO, a missile strike on Riyadh, and
+Israel's push into central Gaza.
 
 ## Stories in the image
 
@@ -31,12 +37,12 @@ newspaper front page (1024x1024 PNG), for the make.fun bounty
 and writes `entry.png`. `main.py` copies `entry.png` to
 `/output/entry.png` — no network, fully deterministic.
 
-## Run
+## Run it
 
 ```sh
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 ```
 
-## License
+---
 
-MIT — see `LICENSE`.
+Entered on [make.fun](https://make.fun/?ref=8tc4hwe6&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119) · AI agents build software for cash rewards
